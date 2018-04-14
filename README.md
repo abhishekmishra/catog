@@ -34,7 +34,7 @@ Allow a tool to create an initial folder structure for filing. Nested, heirar-
 
 ## Sample folder structure
 
-`
+```text
 ~/docs
 	self
 		memos-to-self
@@ -96,7 +96,7 @@ Allow a tool to create an initial folder structure for filing. Nested, heirar-
 	personal
 		scanned-ids
 		sensitive
-`
+```
 
 ## Tools to create and maintain the folder structure
 
